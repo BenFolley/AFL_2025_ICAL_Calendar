@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Melbourne vs GWS Giants - Round 1
+DTSTART;TZID=Australia/Sydney:20250316T152000
+DTEND;TZID=Australia/Sydney:20250316T175000
+DTSTAMP:20250316T042000Z
+DESCRIPTION:AFL Match: Melbourne vs GWS Giants in Round 1
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Melbourne vs Melbourne - Round 2
+DTSTART;TZID=Australia/Sydney:20250323T152000
+DTEND;TZID=Australia/Sydney:20250323T175000
+DTSTAMP:20250323T042000Z
+DESCRIPTION:AFL Match: North Melbourne vs Melbourne in Round 2
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Gold Coast Suns - Round 3
+DTSTART;TZID=Australia/Sydney:20250329T132000
+DTEND;TZID=Australia/Sydney:20250329T155000
+DTSTAMP:20250329T022000Z
+DESCRIPTION:AFL Match: Melbourne vs Gold Coast Suns in Round 3
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Melbourne - Round 4
+DTSTART;TZID=Australia/Sydney:20250404T194000
+DTEND;TZID=Australia/Sydney:20250404T221000
+DTSTAMP:20250404T084000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Melbourne in Round 4
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Essendon - Round 5
+DTSTART;TZID=Australia/Sydney:20250412T193500
+DTEND;TZID=Australia/Sydney:20250412T220500
+DTSTAMP:20250412T093500Z
+DESCRIPTION:AFL Match: Melbourne vs Essendon in Round 5
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Fremantle - Round 6
+DTSTART;TZID=Australia/Sydney:20250419T132000
+DTEND;TZID=Australia/Sydney:20250419T155000
+DTSTAMP:20250419T032000Z
+DESCRIPTION:AFL Match: Melbourne vs Fremantle in Round 6
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Richmond - Round 7
+DTSTART;TZID=Australia/Sydney:20250424T193000
+DTEND;TZID=Australia/Sydney:20250424T220000
+DTSTAMP:20250424T093000Z
+DESCRIPTION:AFL Match: Melbourne vs Richmond in Round 7
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Melbourne - Round 8
+DTSTART;TZID=Australia/Sydney:20250503T193500
+DTEND;TZID=Australia/Sydney:20250503T220500
+DTSTAMP:20250503T093500Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Melbourne in Round 8
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Hawthorn - Round 9
+DTSTART;TZID=Australia/Sydney:20250510T132000
+DTEND;TZID=Australia/Sydney:20250510T155000
+DTSTAMP:20250510T032000Z
+DESCRIPTION:AFL Match: Melbourne vs Hawthorn in Round 9
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Melbourne - Round 10
+DTSTART;TZID=Australia/Sydney:20250518T152000
+DTEND;TZID=Australia/Sydney:20250518T175000
+DTSTAMP:20250518T052000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Melbourne in Round 10
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Sydney Swans - Round 11
+DTSTART;TZID=Australia/Sydney:20250525T152000
+DTEND;TZID=Australia/Sydney:20250525T175000
+DTSTAMP:20250525T052000Z
+DESCRIPTION:AFL Match: Melbourne vs Sydney Swans in Round 11
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs St Kilda - Round 12
+DTSTART;TZID=Australia/Sydney:20250601T152000
+DTEND;TZID=Australia/Sydney:20250601T175000
+DTSTAMP:20250601T052000Z
+DESCRIPTION:AFL Match: Melbourne vs St Kilda in Round 12
+LOCATION:TIO Stadium\, Darwin\, Northern Territory
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Collingwood - Round 13
+DTSTART;TZID=Australia/Sydney:20250609T152000
+DTEND;TZID=Australia/Sydney:20250609T175000
+DTSTAMP:20250609T052000Z
+DESCRIPTION:AFL Match: Melbourne vs Collingwood in Round 13
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Melbourne - Round 14
+DTSTART;TZID=Australia/Sydney:20250615T152000
+DTEND;TZID=Australia/Sydney:20250615T175000
+DTSTAMP:20250615T052000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Melbourne in Round 14
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gold Coast Suns vs Melbourne - Round 16
+DTSTART;TZID=Australia/Sydney:20250628T193000
+DTEND;TZID=Australia/Sydney:20250628T220000
+DTSTAMP:20250628T093000Z
+DESCRIPTION:AFL Match: Gold Coast Suns vs Melbourne in Round 16
+LOCATION:People First Stadium\, Gold Coast\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Melbourne - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Melbourne in Round 17
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs North Melbourne - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Melbourne vs North Melbourne in Round 18
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs Melbourne - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Carlton vs Melbourne in Round 19
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Kilda vs Melbourne - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: St Kilda vs Melbourne in Round 20
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs West Coast Eagles - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Melbourne vs West Coast Eagles in Round 21
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Western Bulldogs - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: Melbourne vs Western Bulldogs in Round 22
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Melbourne - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Hawthorn vs Melbourne in Round 23
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collingwood vs Melbourne - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: Collingwood vs Melbourne in Round 24
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

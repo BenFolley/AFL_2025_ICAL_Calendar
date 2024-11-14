@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Sydney Swans vs Hawthorn - Round Opening Round
+DTSTART;TZID=Australia/Sydney:20250307T194000
+DTEND;TZID=Australia/Sydney:20250307T221000
+DTSTAMP:20250307T084000Z
+DESCRIPTION:AFL Match: Sydney Swans vs Hawthorn in Round Opening Round
+LOCATION:SCG\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Essendon - Round 1
+DTSTART;TZID=Australia/Sydney:20250314T194000
+DTEND;TZID=Australia/Sydney:20250314T221000
+DTSTAMP:20250314T084000Z
+DESCRIPTION:AFL Match: Hawthorn vs Essendon in Round 1
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs Hawthorn - Round 2
+DTSTART;TZID=Australia/Sydney:20250320T193000
+DTEND;TZID=Australia/Sydney:20250320T220000
+DTSTAMP:20250320T083000Z
+DESCRIPTION:AFL Match: Carlton vs Hawthorn in Round 2
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs GWS Giants - Round 3
+DTSTART;TZID=Australia/Sydney:20250329T193500
+DTEND;TZID=Australia/Sydney:20250329T220500
+DTSTAMP:20250329T083500Z
+DESCRIPTION:AFL Match: Hawthorn vs GWS Giants in Round 3
+LOCATION:UTAS Stadium\, Lauceston\, Tasmania
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Hawthorn - Round 5
+DTSTART;TZID=Australia/Sydney:20250413T192000
+DTEND;TZID=Australia/Sydney:20250413T215000
+DTSTAMP:20250413T092000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Hawthorn in Round 5
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Hawthorn - Round 6
+DTSTART;TZID=Australia/Sydney:20250421T152000
+DTEND;TZID=Australia/Sydney:20250421T175000
+DTSTAMP:20250421T052000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Hawthorn in Round 6
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs West Coast Eagles - Round 7
+DTSTART;TZID=Australia/Sydney:20250427T164000
+DTEND;TZID=Australia/Sydney:20250427T191000
+DTSTAMP:20250427T064000Z
+DESCRIPTION:AFL Match: Hawthorn vs West Coast Eagles in Round 7
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Richmond - Round 8
+DTSTART;TZID=Australia/Sydney:20250504T152000
+DTEND;TZID=Australia/Sydney:20250504T175000
+DTSTAMP:20250504T052000Z
+DESCRIPTION:AFL Match: Hawthorn vs Richmond in Round 8
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Hawthorn - Round 9
+DTSTART;TZID=Australia/Sydney:20250510T132000
+DTEND;TZID=Australia/Sydney:20250510T155000
+DTSTAMP:20250510T032000Z
+DESCRIPTION:AFL Match: Melbourne vs Hawthorn in Round 9
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gold Coast Suns vs Hawthorn - Round 10
+DTSTART;TZID=Australia/Sydney:20250515T193000
+DTEND;TZID=Australia/Sydney:20250515T220000
+DTSTAMP:20250515T093000Z
+DESCRIPTION:AFL Match: Gold Coast Suns vs Hawthorn in Round 10
+LOCATION:TIO Stadium\, Darwin\, Northern Territory
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Brisbane Lions - Round 11
+DTSTART;TZID=Australia/Sydney:20250524T161500
+DTEND;TZID=Australia/Sydney:20250524T184500
+DTSTAMP:20250524T061500Z
+DESCRIPTION:AFL Match: Hawthorn vs Brisbane Lions in Round 11
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collingwood vs Hawthorn - Round 12
+DTSTART;TZID=Australia/Sydney:20250530T194000
+DTEND;TZID=Australia/Sydney:20250530T221000
+DTSTAMP:20250530T094000Z
+DESCRIPTION:AFL Match: Collingwood vs Hawthorn in Round 12
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Hawthorn - Round 13
+DTSTART;TZID=Australia/Sydney:20250605T193000
+DTEND;TZID=Australia/Sydney:20250605T220000
+DTSTAMP:20250605T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Hawthorn in Round 13
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Adelaide Crows - Round 14
+DTSTART;TZID=Australia/Sydney:20250613T194000
+DTEND;TZID=Australia/Sydney:20250613T221000
+DTSTAMP:20250613T094000Z
+DESCRIPTION:AFL Match: Hawthorn vs Adelaide Crows in Round 14
+LOCATION:UTAS Stadium\, Lauceston\, Tasmania
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs North Melbourne - Round 16
+DTSTART;TZID=Australia/Sydney:20250628T193000
+DTEND;TZID=Australia/Sydney:20250628T220000
+DTSTAMP:20250628T093000Z
+DESCRIPTION:AFL Match: Hawthorn vs North Melbourne in Round 16
+LOCATION:UTAS Stadium\, Lauceston\, Tasmania
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Kilda vs Hawthorn - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: St Kilda vs Hawthorn in Round 17
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fremantle vs Hawthorn - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Fremantle vs Hawthorn in Round 18
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Port Adelaide - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Hawthorn vs Port Adelaide in Round 19
+LOCATION:UTAS Stadium\, Lauceston\, Tasmania
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Carlton - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: Hawthorn vs Carlton in Round 20
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Hawthorn - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Hawthorn in Round 21
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Collingwood - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: Hawthorn vs Collingwood in Round 22
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Melbourne - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Hawthorn vs Melbourne in Round 23
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Hawthorn - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Hawthorn in Round 24
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

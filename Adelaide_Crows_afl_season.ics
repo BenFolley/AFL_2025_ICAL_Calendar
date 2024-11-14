@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs St Kilda - Round 1
+DTSTART;TZID=Australia/Sydney:20250316T123500
+DTEND;TZID=Australia/Sydney:20250316T150500
+DTSTAMP:20250316T013500Z
+DESCRIPTION:AFL Match: Adelaide Crows vs St Kilda in Round 1
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Adelaide Crows - Round 2
+DTSTART;TZID=Australia/Sydney:20250322T132000
+DTEND;TZID=Australia/Sydney:20250322T155000
+DTSTAMP:20250322T022000Z
+DESCRIPTION:AFL Match: Essendon vs Adelaide Crows in Round 2
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs North Melbourne - Round 3
+DTSTART;TZID=Australia/Sydney:20250330T152000
+DTEND;TZID=Australia/Sydney:20250330T175000
+DTSTAMP:20250330T042000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs North Melbourne in Round 3
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gold Coast Suns vs Adelaide Crows - Round 4
+DTSTART;TZID=Australia/Sydney:20250405T132000
+DTEND;TZID=Australia/Sydney:20250405T155000
+DTSTAMP:20250405T022000Z
+DESCRIPTION:AFL Match: Gold Coast Suns vs Adelaide Crows in Round 4
+LOCATION:People First Stadium\, Gold Coast\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Geelong Cats - Round 5
+DTSTART;TZID=Australia/Sydney:20250410T194000
+DTEND;TZID=Australia/Sydney:20250410T221000
+DTSTAMP:20250410T094000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Geelong Cats in Round 5
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs GWS Giants - Round 6
+DTSTART;TZID=Australia/Sydney:20250419T161500
+DTEND;TZID=Australia/Sydney:20250419T184500
+DTSTAMP:20250419T061500Z
+DESCRIPTION:AFL Match: Adelaide Crows vs GWS Giants in Round 6
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fremantle vs Adelaide Crows - Round 7
+DTSTART;TZID=Australia/Sydney:20250425T201000
+DTEND;TZID=Australia/Sydney:20250425T224000
+DTSTAMP:20250425T101000Z
+DESCRIPTION:AFL Match: Fremantle vs Adelaide Crows in Round 7
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Carlton - Round 8
+DTSTART;TZID=Australia/Sydney:20250503T161500
+DTEND;TZID=Australia/Sydney:20250503T184500
+DTSTAMP:20250503T061500Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Carlton in Round 8
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Adelaide Crows - Round 9
+DTSTART;TZID=Australia/Sydney:20250510T201000
+DTEND;TZID=Australia/Sydney:20250510T224000
+DTSTAMP:20250510T101000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Adelaide Crows in Round 9
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collingwood vs Adelaide Crows - Round 10
+DTSTART;TZID=Australia/Sydney:20250517T132000
+DTEND;TZID=Australia/Sydney:20250517T155000
+DTSTAMP:20250517T032000Z
+DESCRIPTION:AFL Match: Collingwood vs Adelaide Crows in Round 10
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs West Coast Eagles - Round 11
+DTSTART;TZID=Australia/Sydney:20250525T131000
+DTEND;TZID=Australia/Sydney:20250525T154000
+DTSTAMP:20250525T031000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs West Coast Eagles in Round 11
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sydney Swans vs Adelaide Crows - Round 12
+DTSTART;TZID=Australia/Sydney:20250531T193500
+DTEND;TZID=Australia/Sydney:20250531T220500
+DTSTAMP:20250531T093500Z
+DESCRIPTION:AFL Match: Sydney Swans vs Adelaide Crows in Round 12
+LOCATION:SCG\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Brisbane Lions - Round 13
+DTSTART;TZID=Australia/Sydney:20250606T194000
+DTEND;TZID=Australia/Sydney:20250606T221000
+DTSTAMP:20250606T094000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Brisbane Lions in Round 13
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Adelaide Crows - Round 14
+DTSTART;TZID=Australia/Sydney:20250613T194000
+DTEND;TZID=Australia/Sydney:20250613T221000
+DTSTAMP:20250613T094000Z
+DESCRIPTION:AFL Match: Hawthorn vs Adelaide Crows in Round 14
+LOCATION:UTAS Stadium\, Lauceston\, Tasmania
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond vs Adelaide Crows - Round 16
+DTSTART;TZID=Australia/Sydney:20250628T193000
+DTEND;TZID=Australia/Sydney:20250628T220000
+DTSTAMP:20250628T093000Z
+DESCRIPTION:AFL Match: Richmond vs Adelaide Crows in Round 16
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Melbourne - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Melbourne in Round 17
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Adelaide Crows - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Adelaide Crows in Round 18
+LOCATION:Mars Stadium\, Ballarat\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Gold Coast Suns - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Gold Coast Suns in Round 19
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Port Adelaide - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Port Adelaide in Round 20
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Hawthorn - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Hawthorn in Round 21
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Adelaide Crows - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Adelaide Crows in Round 22
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Collingwood - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Collingwood in Round 23
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Melbourne vs Adelaide Crows - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: North Melbourne vs Adelaide Crows in Round 24
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Gold Coast Suns vs Essendon - Round Opening Round
+DTSTART;TZID=Australia/Sydney:20250308T171500
+DTEND;TZID=Australia/Sydney:20250308T194500
+DTSTAMP:20250308T061500Z
+DESCRIPTION:AFL Match: Gold Coast Suns vs Essendon in Round Opening Round
+LOCATION:People First Stadium\, Gold Coast\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Essendon - Round 1
+DTSTART;TZID=Australia/Sydney:20250314T194000
+DTEND;TZID=Australia/Sydney:20250314T221000
+DTSTAMP:20250314T084000Z
+DESCRIPTION:AFL Match: Hawthorn vs Essendon in Round 1
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Adelaide Crows - Round 2
+DTSTART;TZID=Australia/Sydney:20250322T132000
+DTEND;TZID=Australia/Sydney:20250322T155000
+DTSTAMP:20250322T022000Z
+DESCRIPTION:AFL Match: Essendon vs Adelaide Crows in Round 2
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Port Adelaide - Round 3
+DTSTART;TZID=Australia/Sydney:20250327T193000
+DTEND;TZID=Australia/Sydney:20250327T220000
+DTSTAMP:20250327T083000Z
+DESCRIPTION:AFL Match: Essendon vs Port Adelaide in Round 3
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Essendon - Round 5
+DTSTART;TZID=Australia/Sydney:20250412T193500
+DTEND;TZID=Australia/Sydney:20250412T220500
+DTSTAMP:20250412T093500Z
+DESCRIPTION:AFL Match: Melbourne vs Essendon in Round 5
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Essendon - Round 6
+DTSTART;TZID=Australia/Sydney:20250418T181000
+DTEND;TZID=Australia/Sydney:20250418T204000
+DTSTAMP:20250418T081000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Essendon in Round 6
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collingwood vs Essendon - Round 7
+DTSTART;TZID=Australia/Sydney:20250425T152000
+DTEND;TZID=Australia/Sydney:20250425T175000
+DTSTAMP:20250425T052000Z
+DESCRIPTION:AFL Match: Collingwood vs Essendon in Round 7
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs North Melbourne - Round 8
+DTSTART;TZID=Australia/Sydney:20250501T193000
+DTEND;TZID=Australia/Sydney:20250501T220000
+DTSTAMP:20250501T093000Z
+DESCRIPTION:AFL Match: Essendon vs North Melbourne in Round 8
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Sydney Swans - Round 9
+DTSTART;TZID=Australia/Sydney:20250510T161500
+DTEND;TZID=Australia/Sydney:20250510T184500
+DTSTAMP:20250510T061500Z
+DESCRIPTION:AFL Match: Essendon vs Sydney Swans in Round 9
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Essendon - Round 10
+DTSTART;TZID=Australia/Sydney:20250517T193500
+DTEND;TZID=Australia/Sydney:20250517T220500
+DTSTAMP:20250517T093500Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Essendon in Round 10
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Richmond - Round 11
+DTSTART;TZID=Australia/Sydney:20250523T194000
+DTEND;TZID=Australia/Sydney:20250523T221000
+DTSTAMP:20250523T094000Z
+DESCRIPTION:AFL Match: Essendon vs Richmond in Round 11
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Essendon - Round 12
+DTSTART;TZID=Australia/Sydney:20250529T193000
+DTEND;TZID=Australia/Sydney:20250529T220000
+DTSTAMP:20250529T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Essendon in Round 12
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs Essendon - Round 13
+DTSTART;TZID=Australia/Sydney:20250608T192000
+DTEND;TZID=Australia/Sydney:20250608T215000
+DTSTAMP:20250608T092000Z
+DESCRIPTION:AFL Match: Carlton vs Essendon in Round 13
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Geelong Cats - Round 14
+DTSTART;TZID=Australia/Sydney:20250614T161500
+DTEND;TZID=Australia/Sydney:20250614T184500
+DTSTAMP:20250614T061500Z
+DESCRIPTION:AFL Match: Essendon vs Geelong Cats in Round 14
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fremantle vs Essendon - Round 15
+DTSTART;TZID=Australia/Sydney:20250619T201000
+DTEND;TZID=Australia/Sydney:20250619T224000
+DTSTAMP:20250619T101000Z
+DESCRIPTION:AFL Match: Fremantle vs Essendon in Round 15
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Gold Coast Suns - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: Essendon vs Gold Coast Suns in Round 17
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond vs Essendon - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Richmond vs Essendon in Round 18
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs GWS Giants - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Essendon vs GWS Giants in Round 19
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Western Bulldogs - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: Essendon vs Western Bulldogs in Round 20
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sydney Swans vs Essendon - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Sydney Swans vs Essendon in Round 21
+LOCATION:SCG\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Essendon - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Essendon in Round 22
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs St Kilda - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Essendon vs St Kilda in Round 23
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Carlton - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: Essendon vs Carlton in Round 24
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

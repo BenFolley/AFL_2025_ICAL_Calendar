@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Geelong Cats - Round Opening Round
+DTSTART;TZID=Australia/Sydney:20250306T195000
+DTEND;TZID=Australia/Sydney:20250306T222000
+DTSTAMP:20250306T085000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Geelong Cats in Round Opening Rou
+ nd
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Fremantle - Round 1
+DTSTART;TZID=Australia/Sydney:20250315T132000
+DTEND;TZID=Australia/Sydney:20250315T155000
+DTSTAMP:20250315T022000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Fremantle in Round 1
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Kilda vs Geelong Cats - Round 2
+DTSTART;TZID=Australia/Sydney:20250322T193500
+DTEND;TZID=Australia/Sydney:20250322T220500
+DTSTAMP:20250322T083500Z
+DESCRIPTION:AFL Match: St Kilda vs Geelong Cats in Round 2
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Melbourne - Round 4
+DTSTART;TZID=Australia/Sydney:20250404T194000
+DTEND;TZID=Australia/Sydney:20250404T221000
+DTSTAMP:20250404T084000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Melbourne in Round 4
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Geelong Cats - Round 5
+DTSTART;TZID=Australia/Sydney:20250410T194000
+DTEND;TZID=Australia/Sydney:20250410T221000
+DTSTAMP:20250410T094000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Geelong Cats in Round 5
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Hawthorn - Round 6
+DTSTART;TZID=Australia/Sydney:20250421T152000
+DTEND;TZID=Australia/Sydney:20250421T175000
+DTSTAMP:20250421T052000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Hawthorn in Round 6
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs Geelong Cats - Round 7
+DTSTART;TZID=Australia/Sydney:20250427T152000
+DTEND;TZID=Australia/Sydney:20250427T175000
+DTSTAMP:20250427T052000Z
+DESCRIPTION:AFL Match: Carlton vs Geelong Cats in Round 7
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collingwood vs Geelong Cats - Round 8
+DTSTART;TZID=Australia/Sydney:20250503T193500
+DTEND;TZID=Australia/Sydney:20250503T220500
+DTSTAMP:20250503T093500Z
+DESCRIPTION:AFL Match: Collingwood vs Geelong Cats in Round 8
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs GWS Giants - Round 9
+DTSTART;TZID=Australia/Sydney:20250511T152000
+DTEND;TZID=Australia/Sydney:20250511T175000
+DTSTAMP:20250511T052000Z
+DESCRIPTION:AFL Match: Geelong Cats vs GWS Giants in Round 9
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Geelong Cats - Round 10
+DTSTART;TZID=Australia/Sydney:20250517T161500
+DTEND;TZID=Australia/Sydney:20250517T184500
+DTSTAMP:20250517T061500Z
+DESCRIPTION:AFL Match: Port Adelaide vs Geelong Cats in Round 10
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Western Bulldogs - Round 11
+DTSTART;TZID=Australia/Sydney:20250522T193000
+DTEND;TZID=Australia/Sydney:20250522T220000
+DTSTAMP:20250522T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Western Bulldogs in Round 11
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Geelong Cats - Round 12
+DTSTART;TZID=Australia/Sydney:20250601T192000
+DTEND;TZID=Australia/Sydney:20250601T215000
+DTSTAMP:20250601T092000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Geelong Cats in Round 12
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Gold Coast Suns - Round 13
+DTSTART;TZID=Australia/Sydney:20250607T161500
+DTEND;TZID=Australia/Sydney:20250607T184500
+DTSTAMP:20250607T061500Z
+DESCRIPTION:AFL Match: Geelong Cats vs Gold Coast Suns in Round 13
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Geelong Cats - Round 14
+DTSTART;TZID=Australia/Sydney:20250614T161500
+DTEND;TZID=Australia/Sydney:20250614T184500
+DTSTAMP:20250614T061500Z
+DESCRIPTION:AFL Match: Essendon vs Geelong Cats in Round 14
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Brisbane Lions - Round 15
+DTSTART;TZID=Australia/Sydney:20250620T194000
+DTEND;TZID=Australia/Sydney:20250620T221000
+DTSTAMP:20250620T094000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Brisbane Lions in Round 15
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Richmond - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Richmond in Round 17
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GWS Giants vs Geelong Cats - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: GWS Giants vs Geelong Cats in Round 18
+LOCATION:ENGIE Stadium\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs St Kilda - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs St Kilda in Round 19
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Melbourne vs Geelong Cats - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: North Melbourne vs Geelong Cats in Round 20
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Port Adelaide - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Port Adelaide in Round 21
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Essendon - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Essendon in Round 22
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sydney Swans vs Geelong Cats - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Sydney Swans vs Geelong Cats in Round 23
+LOCATION:SCG\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond vs Geelong Cats - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: Richmond vs Geelong Cats in Round 24
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

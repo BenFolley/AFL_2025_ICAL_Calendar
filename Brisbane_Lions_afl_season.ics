@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Geelong Cats - Round Opening Round
+DTSTART;TZID=Australia/Sydney:20250306T195000
+DTEND;TZID=Australia/Sydney:20250306T222000
+DTSTAMP:20250306T085000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Geelong Cats in Round Opening Rou
+ nd
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sydney Swans vs Brisbane Lions - Round 1
+DTSTART;TZID=Australia/Sydney:20250315T161500
+DTEND;TZID=Australia/Sydney:20250315T184500
+DTSTAMP:20250315T051500Z
+DESCRIPTION:AFL Match: Sydney Swans vs Brisbane Lions in Round 1
+LOCATION:SCG\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs West Coast Eagles - Round 2
+DTSTART;TZID=Australia/Sydney:20250323T131000
+DTEND;TZID=Australia/Sydney:20250323T154000
+DTSTAMP:20250323T021000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs West Coast Eagles in Round 2
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond vs Brisbane Lions - Round 4
+DTSTART;TZID=Australia/Sydney:20250405T161500
+DTEND;TZID=Australia/Sydney:20250405T184500
+DTSTAMP:20250405T051500Z
+DESCRIPTION:AFL Match: Richmond vs Brisbane Lions in Round 4
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Brisbane Lions - Round 5
+DTSTART;TZID=Australia/Sydney:20250412T161500
+DTEND;TZID=Australia/Sydney:20250412T184500
+DTSTAMP:20250412T061500Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Brisbane Lions in Round 5
+LOCATION:Norwood Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Collingwood - Round 6
+DTSTART;TZID=Australia/Sydney:20250417T193000
+DTEND;TZID=Australia/Sydney:20250417T220000
+DTSTAMP:20250417T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Collingwood in Round 6
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Kilda vs Brisbane Lions - Round 7
+DTSTART;TZID=Australia/Sydney:20250426T132000
+DTEND;TZID=Australia/Sydney:20250426T155000
+DTSTAMP:20250426T032000Z
+DESCRIPTION:AFL Match: St Kilda vs Brisbane Lions in Round 7
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Gold Coast Suns - Round 8
+DTSTART;TZID=Australia/Sydney:20250504T192000
+DTEND;TZID=Australia/Sydney:20250504T215000
+DTSTAMP:20250504T092000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Gold Coast Suns in Round 8
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Melbourne vs Brisbane Lions - Round 9
+DTSTART;TZID=Australia/Sydney:20250511T164000
+DTEND;TZID=Australia/Sydney:20250511T191000
+DTSTAMP:20250511T064000Z
+DESCRIPTION:AFL Match: North Melbourne vs Brisbane Lions in Round 9
+LOCATION:Ninja Stadium\, Hobart\, Tasmania
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Melbourne - Round 10
+DTSTART;TZID=Australia/Sydney:20250518T152000
+DTEND;TZID=Australia/Sydney:20250518T175000
+DTSTAMP:20250518T052000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Melbourne in Round 10
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Brisbane Lions - Round 11
+DTSTART;TZID=Australia/Sydney:20250524T161500
+DTEND;TZID=Australia/Sydney:20250524T184500
+DTSTAMP:20250524T061500Z
+DESCRIPTION:AFL Match: Hawthorn vs Brisbane Lions in Round 11
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Essendon - Round 12
+DTSTART;TZID=Australia/Sydney:20250529T193000
+DTEND;TZID=Australia/Sydney:20250529T220000
+DTSTAMP:20250529T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Essendon in Round 12
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Brisbane Lions - Round 13
+DTSTART;TZID=Australia/Sydney:20250606T194000
+DTEND;TZID=Australia/Sydney:20250606T221000
+DTSTAMP:20250606T094000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Brisbane Lions in Round 13
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs GWS Giants - Round 14
+DTSTART;TZID=Australia/Sydney:20250614T132000
+DTEND;TZID=Australia/Sydney:20250614T155000
+DTSTAMP:20250614T032000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs GWS Giants in Round 14
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Brisbane Lions - Round 15
+DTSTART;TZID=Australia/Sydney:20250620T194000
+DTEND;TZID=Australia/Sydney:20250620T221000
+DTSTAMP:20250620T094000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Brisbane Lions in Round 15
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Port Adelaide - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Port Adelaide in Round 17
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs Brisbane Lions - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Carlton vs Brisbane Lions in Round 18
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Western Bulldogs - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Western Bulldogs in Round 19
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gold Coast Suns vs Brisbane Lions - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: Gold Coast Suns vs Brisbane Lions in Round 20
+LOCATION:People First Stadium\, Gold Coast\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collingwood vs Brisbane Lions - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Collingwood vs Brisbane Lions in Round 21
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Sydney Swans - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Sydney Swans in Round 22
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fremantle vs Brisbane Lions - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Fremantle vs Brisbane Lions in Round 23
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Hawthorn - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Hawthorn in Round 24
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

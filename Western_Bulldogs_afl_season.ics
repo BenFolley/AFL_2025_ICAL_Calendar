@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs North Melbourne - Round 1
+DTSTART;TZID=Australia/Sydney:20250315T193500
+DTEND;TZID=Australia/Sydney:20250315T220500
+DTSTAMP:20250315T083500Z
+DESCRIPTION:AFL Match: Western Bulldogs vs North Melbourne in Round 1
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Collingwood - Round 2
+DTSTART;TZID=Australia/Sydney:20250321T194000
+DTEND;TZID=Australia/Sydney:20250321T221000
+DTSTAMP:20250321T084000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Collingwood in Round 2
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs Western Bulldogs - Round 3
+DTSTART;TZID=Australia/Sydney:20250328T194000
+DTEND;TZID=Australia/Sydney:20250328T221000
+DTSTAMP:20250328T084000Z
+DESCRIPTION:AFL Match: Carlton vs Western Bulldogs in Round 3
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fremantle vs Western Bulldogs - Round 4
+DTSTART;TZID=Australia/Sydney:20250406T171000
+DTEND;TZID=Australia/Sydney:20250406T194000
+DTSTAMP:20250406T071000Z
+DESCRIPTION:AFL Match: Fremantle vs Western Bulldogs in Round 4
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Brisbane Lions - Round 5
+DTSTART;TZID=Australia/Sydney:20250412T161500
+DTEND;TZID=Australia/Sydney:20250412T184500
+DTSTAMP:20250412T061500Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Brisbane Lions in Round 5
+LOCATION:Norwood Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs St Kilda - Round 6
+DTSTART;TZID=Australia/Sydney:20250420T192000
+DTEND;TZID=Australia/Sydney:20250420T215000
+DTSTAMP:20250420T092000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs St Kilda in Round 6
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GWS Giants vs Western Bulldogs - Round 7
+DTSTART;TZID=Australia/Sydney:20250426T193500
+DTEND;TZID=Australia/Sydney:20250426T220500
+DTSTAMP:20250426T093500Z
+DESCRIPTION:AFL Match: GWS Giants vs Western Bulldogs in Round 7
+LOCATION:Manuka Oval\, Canberra\, Australian Captial Territory
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Port Adelaide - Round 8
+DTSTART;TZID=Australia/Sydney:20250503T132000
+DTEND;TZID=Australia/Sydney:20250503T155000
+DTSTAMP:20250503T032000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Port Adelaide in Round 8
+LOCATION:Mars Stadium\, Ballarat\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gold Coast Suns vs Western Bulldogs - Round 9
+DTSTART;TZID=Australia/Sydney:20250510T193500
+DTEND;TZID=Australia/Sydney:20250510T220500
+DTSTAMP:20250510T093500Z
+DESCRIPTION:AFL Match: Gold Coast Suns vs Western Bulldogs in Round 9
+LOCATION:TIO Stadium\, Darwin\, Northern Territory
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Essendon - Round 10
+DTSTART;TZID=Australia/Sydney:20250517T193500
+DTEND;TZID=Australia/Sydney:20250517T220500
+DTSTAMP:20250517T093500Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Essendon in Round 10
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Western Bulldogs - Round 11
+DTSTART;TZID=Australia/Sydney:20250522T193000
+DTEND;TZID=Australia/Sydney:20250522T220000
+DTSTAMP:20250522T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Western Bulldogs in Round 11
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Hawthorn - Round 13
+DTSTART;TZID=Australia/Sydney:20250605T193000
+DTEND;TZID=Australia/Sydney:20250605T220000
+DTSTAMP:20250605T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Hawthorn in Round 13
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Kilda vs Western Bulldogs - Round 14
+DTSTART;TZID=Australia/Sydney:20250612T193000
+DTEND;TZID=Australia/Sydney:20250612T220000
+DTSTAMP:20250612T093000Z
+DESCRIPTION:AFL Match: St Kilda vs Western Bulldogs in Round 14
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Richmond - Round 15
+DTSTART;TZID=Australia/Sydney:20250622T152000
+DTEND;TZID=Australia/Sydney:20250622T175000
+DTSTAMP:20250622T052000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Richmond in Round 15
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sydney Swans vs Western Bulldogs - Round 16
+DTSTART;TZID=Australia/Sydney:20250628T193000
+DTEND;TZID=Australia/Sydney:20250628T220000
+DTSTAMP:20250628T093000Z
+DESCRIPTION:AFL Match: Sydney Swans vs Western Bulldogs in Round 16
+LOCATION:SCG\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Melbourne vs Western Bulldogs - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: North Melbourne vs Western Bulldogs in Round 17
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Adelaide Crows - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Adelaide Crows in Round 18
+LOCATION:Mars Stadium\, Ballarat\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Western Bulldogs - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Western Bulldogs in Round 19
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Western Bulldogs - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: Essendon vs Western Bulldogs in Round 20
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs GWS Giants - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs GWS Giants in Round 21
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs Western Bulldogs - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: Melbourne vs Western Bulldogs in Round 22
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs West Coast Eagles - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs West Coast Eagles in Round 23
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Fremantle - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Fremantle in Round 24
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Gold Coast Suns - Round 1
+DTSTART;TZID=Australia/Sydney:20250316T181000
+DTEND;TZID=Australia/Sydney:20250316T204000
+DTSTAMP:20250316T071000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Gold Coast Suns in Round 1
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs West Coast Eagles - Round 2
+DTSTART;TZID=Australia/Sydney:20250323T131000
+DTEND;TZID=Australia/Sydney:20250323T154000
+DTSTAMP:20250323T021000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs West Coast Eagles in Round 2
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Fremantle - Round 3
+DTSTART;TZID=Australia/Sydney:20250330T181000
+DTEND;TZID=Australia/Sydney:20250330T204000
+DTSTAMP:20250330T071000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Fremantle in Round 3
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GWS Giants vs West Coast Eagles - Round 4
+DTSTART;TZID=Australia/Sydney:20250406T131000
+DTEND;TZID=Australia/Sydney:20250406T154000
+DTSTAMP:20250406T031000Z
+DESCRIPTION:AFL Match: GWS Giants vs West Coast Eagles in Round 4
+LOCATION:ENGIE Stadium\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs West Coast Eagles - Round 5
+DTSTART;TZID=Australia/Sydney:20250412T132000
+DTEND;TZID=Australia/Sydney:20250412T155000
+DTSTAMP:20250412T032000Z
+DESCRIPTION:AFL Match: Carlton vs West Coast Eagles in Round 5
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Essendon - Round 6
+DTSTART;TZID=Australia/Sydney:20250418T181000
+DTEND;TZID=Australia/Sydney:20250418T204000
+DTSTAMP:20250418T081000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Essendon in Round 6
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs West Coast Eagles - Round 7
+DTSTART;TZID=Australia/Sydney:20250427T164000
+DTEND;TZID=Australia/Sydney:20250427T191000
+DTSTAMP:20250427T064000Z
+DESCRIPTION:AFL Match: Hawthorn vs West Coast Eagles in Round 7
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Melbourne - Round 8
+DTSTART;TZID=Australia/Sydney:20250503T193500
+DTEND;TZID=Australia/Sydney:20250503T220500
+DTSTAMP:20250503T093500Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Melbourne in Round 8
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond vs West Coast Eagles - Round 9
+DTSTART;TZID=Australia/Sydney:20250511T131000
+DTEND;TZID=Australia/Sydney:20250511T154000
+DTSTAMP:20250511T031000Z
+DESCRIPTION:AFL Match: Richmond vs West Coast Eagles in Round 9
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs St Kilda - Round 10
+DTSTART;TZID=Australia/Sydney:20250518T164000
+DTEND;TZID=Australia/Sydney:20250518T191000
+DTSTAMP:20250518T064000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs St Kilda in Round 10
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs West Coast Eagles - Round 11
+DTSTART;TZID=Australia/Sydney:20250525T131000
+DTEND;TZID=Australia/Sydney:20250525T154000
+DTSTAMP:20250525T031000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs West Coast Eagles in Round 11
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Geelong Cats - Round 12
+DTSTART;TZID=Australia/Sydney:20250601T192000
+DTEND;TZID=Australia/Sydney:20250601T215000
+DTSTAMP:20250601T092000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Geelong Cats in Round 12
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Melbourne vs West Coast Eagles - Round 13
+DTSTART;TZID=Australia/Sydney:20250608T152000
+DTEND;TZID=Australia/Sydney:20250608T175000
+DTSTAMP:20250608T052000Z
+DESCRIPTION:AFL Match: North Melbourne vs West Coast Eagles in Round 13
+LOCATION:Hands Oval\, Bunbury\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Carlton - Round 14
+DTSTART;TZID=Australia/Sydney:20250615T181000
+DTEND;TZID=Australia/Sydney:20250615T204000
+DTSTAMP:20250615T081000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Carlton in Round 14
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collingwood vs West Coast Eagles - Round 16
+DTSTART;TZID=Australia/Sydney:20250628T193000
+DTEND;TZID=Australia/Sydney:20250628T220000
+DTSTAMP:20250628T093000Z
+DESCRIPTION:AFL Match: Collingwood vs West Coast Eagles in Round 16
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs GWS Giants - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs GWS Giants in Round 17
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs West Coast Eagles - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Port Adelaide vs West Coast Eagles in Round 18
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Richmond - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Richmond in Round 19
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fremantle vs West Coast Eagles - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: Fremantle vs West Coast Eagles in Round 20
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melbourne vs West Coast Eagles - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Melbourne vs West Coast Eagles in Round 21
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Adelaide Crows - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Adelaide Crows in Round 22
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs West Coast Eagles - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs West Coast Eagles in Round 23
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Coast Eagles vs Sydney Swans - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: West Coast Eagles vs Sydney Swans in Round 24
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR

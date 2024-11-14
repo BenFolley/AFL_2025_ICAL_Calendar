@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:Collingwood vs Port Adelaide - Round 1
+DTSTART;TZID=Australia/Sydney:20250315T193500
+DTEND;TZID=Australia/Sydney:20250315T220500
+DTSTAMP:20250315T083500Z
+DESCRIPTION:AFL Match: Collingwood vs Port Adelaide in Round 1
+LOCATION:MCG\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Richmond - Round 2
+DTSTART;TZID=Australia/Sydney:20250322T161500
+DTEND;TZID=Australia/Sydney:20250322T184500
+DTSTAMP:20250322T051500Z
+DESCRIPTION:AFL Match: Port Adelaide vs Richmond in Round 2
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Essendon vs Port Adelaide - Round 3
+DTSTART;TZID=Australia/Sydney:20250327T193000
+DTEND;TZID=Australia/Sydney:20250327T220000
+DTSTAMP:20250327T083000Z
+DESCRIPTION:AFL Match: Essendon vs Port Adelaide in Round 3
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs St Kilda - Round 4
+DTSTART;TZID=Australia/Sydney:20250406T152000
+DTEND;TZID=Australia/Sydney:20250406T175000
+DTSTAMP:20250406T052000Z
+DESCRIPTION:AFL Match: Port Adelaide vs St Kilda in Round 4
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Hawthorn - Round 5
+DTSTART;TZID=Australia/Sydney:20250413T192000
+DTEND;TZID=Australia/Sydney:20250413T215000
+DTSTAMP:20250413T092000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Hawthorn in Round 5
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sydney Swans vs Port Adelaide - Round 6
+DTSTART;TZID=Australia/Sydney:20250420T152000
+DTEND;TZID=Australia/Sydney:20250420T175000
+DTSTAMP:20250420T052000Z
+DESCRIPTION:AFL Match: Sydney Swans vs Port Adelaide in Round 6
+LOCATION:SCG\, Sydney\, New South Wales
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs North Melbourne - Round 7
+DTSTART;TZID=Australia/Sydney:20250426T161500
+DTEND;TZID=Australia/Sydney:20250426T184500
+DTSTAMP:20250426T061500Z
+DESCRIPTION:AFL Match: Port Adelaide vs North Melbourne in Round 7
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Bulldogs vs Port Adelaide - Round 8
+DTSTART;TZID=Australia/Sydney:20250503T132000
+DTEND;TZID=Australia/Sydney:20250503T155000
+DTSTAMP:20250503T032000Z
+DESCRIPTION:AFL Match: Western Bulldogs vs Port Adelaide in Round 8
+LOCATION:Mars Stadium\, Ballarat\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Adelaide Crows - Round 9
+DTSTART;TZID=Australia/Sydney:20250510T201000
+DTEND;TZID=Australia/Sydney:20250510T224000
+DTSTAMP:20250510T101000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Adelaide Crows in Round 9
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Geelong Cats - Round 10
+DTSTART;TZID=Australia/Sydney:20250517T161500
+DTEND;TZID=Australia/Sydney:20250517T184500
+DTSTAMP:20250517T061500Z
+DESCRIPTION:AFL Match: Port Adelaide vs Geelong Cats in Round 10
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fremantle vs Port Adelaide - Round 11
+DTSTART;TZID=Australia/Sydney:20250524T201000
+DTEND;TZID=Australia/Sydney:20250524T224000
+DTSTAMP:20250524T101000Z
+DESCRIPTION:AFL Match: Fremantle vs Port Adelaide in Round 11
+LOCATION:Optus Stadium\, Perth\, Western Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GWS Giants vs Port Adelaide - Round 13
+DTSTART;TZID=Australia/Sydney:20250607T193500
+DTEND;TZID=Australia/Sydney:20250607T220500
+DTSTAMP:20250607T093500Z
+DESCRIPTION:AFL Match: GWS Giants vs Port Adelaide in Round 13
+LOCATION:Manuka Oval\, Canberra\, Australian Captial Territory
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Melbourne - Round 14
+DTSTART;TZID=Australia/Sydney:20250615T152000
+DTEND;TZID=Australia/Sydney:20250615T175000
+DTSTAMP:20250615T052000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Melbourne in Round 14
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Sydney Swans - Round 15
+DTSTART;TZID=Australia/Sydney:20250621T161500
+DTEND;TZID=Australia/Sydney:20250621T184500
+DTSTAMP:20250621T061500Z
+DESCRIPTION:AFL Match: Port Adelaide vs Sydney Swans in Round 15
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Carlton - Round 16
+DTSTART;TZID=Australia/Sydney:20250628T193000
+DTEND;TZID=Australia/Sydney:20250628T220000
+DTSTAMP:20250628T093000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Carlton in Round 16
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brisbane Lions vs Port Adelaide - Round 17
+DTSTART;TZID=Australia/Sydney:20250705T193000
+DTEND;TZID=Australia/Sydney:20250705T220000
+DTSTAMP:20250705T093000Z
+DESCRIPTION:AFL Match: Brisbane Lions vs Port Adelaide in Round 17
+LOCATION:Gabba\, Brisbane\, Queensland
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs West Coast Eagles - Round 18
+DTSTART;TZID=Australia/Sydney:20250712T193000
+DTEND;TZID=Australia/Sydney:20250712T220000
+DTSTAMP:20250712T093000Z
+DESCRIPTION:AFL Match: Port Adelaide vs West Coast Eagles in Round 18
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawthorn vs Port Adelaide - Round 19
+DTSTART;TZID=Australia/Sydney:20250719T193000
+DTEND;TZID=Australia/Sydney:20250719T220000
+DTSTAMP:20250719T093000Z
+DESCRIPTION:AFL Match: Hawthorn vs Port Adelaide in Round 19
+LOCATION:UTAS Stadium\, Lauceston\, Tasmania
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adelaide Crows vs Port Adelaide - Round 20
+DTSTART;TZID=Australia/Sydney:20250726T193000
+DTEND;TZID=Australia/Sydney:20250726T220000
+DTSTAMP:20250726T093000Z
+DESCRIPTION:AFL Match: Adelaide Crows vs Port Adelaide in Round 20
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geelong Cats vs Port Adelaide - Round 21
+DTSTART;TZID=Australia/Sydney:20250802T193000
+DTEND;TZID=Australia/Sydney:20250802T220000
+DTSTAMP:20250802T093000Z
+DESCRIPTION:AFL Match: Geelong Cats vs Port Adelaide in Round 21
+LOCATION:GMHBA\, Geelong\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Fremantle - Round 22
+DTSTART;TZID=Australia/Sydney:20250809T193000
+DTEND;TZID=Australia/Sydney:20250809T220000
+DTSTAMP:20250809T093000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Fremantle in Round 22
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlton vs Port Adelaide - Round 23
+DTSTART;TZID=Australia/Sydney:20250816T193000
+DTEND;TZID=Australia/Sydney:20250816T220000
+DTSTAMP:20250816T093000Z
+DESCRIPTION:AFL Match: Carlton vs Port Adelaide in Round 23
+LOCATION:Marvel Stadium\, Melbourne\, Victoria
+TZID:Australia/Sydney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Port Adelaide vs Gold Coast Suns - Round 24
+DTSTART;TZID=Australia/Sydney:20250823T193000
+DTEND;TZID=Australia/Sydney:20250823T220000
+DTSTAMP:20250823T093000Z
+DESCRIPTION:AFL Match: Port Adelaide vs Gold Coast Suns in Round 24
+LOCATION:Adelaide Oval\, Adelaide\, South Australia
+TZID:Australia/Sydney
+END:VEVENT
+END:VCALENDAR
