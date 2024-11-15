@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Python//NONSGML v1.0//EN
 BEGIN:VEVENT
-SUMMARY:Sydney Swans vs Hawthorn - Round Opening Round
+SUMMARY:Sydney Swans vs Hawthorn - Opening Round
 DTSTART;TZID=Australia/Sydney:20250307T194000
 DTEND;TZID=Australia/Sydney:20250307T221000
 DTSTAMP:20250307T084000Z
-DESCRIPTION:AFL Match: Sydney Swans vs Hawthorn in Round Opening Round
+DESCRIPTION:AFL Match: Sydney Swans vs Hawthorn in Opening Round
 LOCATION:SCG\, Sydney\, New South Wales
 TZID:Australia/Sydney
 END:VEVENT

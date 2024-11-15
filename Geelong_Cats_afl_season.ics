@@ -2,12 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Python//NONSGML v1.0//EN
 BEGIN:VEVENT
-SUMMARY:Brisbane Lions vs Geelong Cats - Round Opening Round
+SUMMARY:Brisbane Lions vs Geelong Cats - Opening Round
 DTSTART;TZID=Australia/Sydney:20250306T195000
 DTEND;TZID=Australia/Sydney:20250306T222000
 DTSTAMP:20250306T085000Z
-DESCRIPTION:AFL Match: Brisbane Lions vs Geelong Cats in Round Opening Rou
- nd
+DESCRIPTION:AFL Match: Brisbane Lions vs Geelong Cats in Opening Round
 LOCATION:Gabba\, Brisbane\, Queensland
 TZID:Australia/Sydney
 END:VEVENT
